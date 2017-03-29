@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_e468ba438004e179e5975f8762503eb29030a8c2.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/com.trello/rxlifecycle/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a98a50c56978d02c0651d12f5a26c3e7c31c397">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/com.trello-rxlifecycle-0.6.1_962f00567b242c97f2aecd377717885d4b56861b.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/okio-1.8.0_962d67f01bebab5567cde2305408eef568401060.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_4e3c6a49e2fe26e492dcc8b51c255d8adab1aa31.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/fm.jiecao/jiecaovideoplayer/4.5_preview1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="239f1597c41717f084416447d2fb2163dc7bf820">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/fm.jiecao-jiecaovideoplayer-4.5_preview1_3618b829769c4b2ec7cfd966328bd9b4cb2c176e.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_7fe3bcbb9cd50060ae99589a2dc328e40f9c03b3.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/Library/Android/sdk/build-tools/23.0.2/renderscript/lib/renderscript-v8.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="762016371811e15a66e97cf27f3e852bf287aaf3">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/renderscript-v8_4d830ffb0a39e008d01c586478444ba69ad2866e.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/tv.danmaku.ijk.media/ijkplayer-armv7a/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="883eb9c3bde63636505e42fc6cad790f4739b0d3">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/tv.danmaku.ijk.media-ijkplayer-armv7a-0.6.0_7808468d93ac6c30b8f32d76feb2c9a4b9fa0599.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/com.trello/rxlifecycle-components/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c90d2e1f0959b6e1f312b9f53049a342f0e82df">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/com.trello-rxlifecycle-components-0.6.1_ea142a8b247899161acc9019a86873c673470207.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/com.zhy/okhttputils/2.5.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="16038deb0aac6d7f421d7fdee7f047d656cedee8">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/com.zhy-okhttputils-2.5.2_b2dde8e55ce25590a2e6a1b264676dbb5c0818b2.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_78d9afbc78d8963aa91c7e82cc84e1b6f27fd38d.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.0.1_80011cf951be0f7096e37bbe60d97c0ae2795b09.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/com.orhanobut/logger/1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="109f0ec452925b46b500e8d28ee2cd2d1a0145a9">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/com.orhanobut-logger-1.4_8c572b2313bee4d737d29d38d8a98c251e611de5.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/com.ogaclejapan.smarttablayout/library/1.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1d16ffcc50b1dfa726cf978ea9f0a949cdd70e7d">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/com.ogaclejapan.smarttablayout-library-1.6.1_e15a13938d42dea03f9a9beb942283694a9fae42.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/tv.danmaku.ijk.media/ijkplayer-java/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a13789ec9e884e49740bb970550fabcb340466c1">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/tv.danmaku.ijk.media-ijkplayer-java-0.6.0_0598b9b395394e13b144cd03356d6fc94860bafa.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/com.wang.avi/library/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="476390e81d32f9d08f9f5aab6c2b28f314a37828">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/com.wang.avi-library-1.0.0_eb2415bf6e813d50c569cb74865db4f5824f149e.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="264f0bc4c0680cfe7a60fea1f12a43f1ab48e7c8">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/com.getkeepsafe.relinker-relinker-1.2.1_90d345436ab8c4c6c08062f4029a827775d45927.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.2.1_c157e962d531ec8ac720231fc4a924b0c134cd66.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.0.1_932b4bd7d25c29c54e8c9f00955f32b35db3bee2.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_2d517b8885d2adb2edbf09469e321e562b524ceb.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_9b2637aa631ef5c5cabac0286065fac65f2fa0f1.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_3e6617af5511b791558f2c1e0cc8e9302f737fab.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.1.0_5e3140b74ed74aaa0b9b849115dbd417d8cd4b25.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/1.1.0/4459414c171c7b60cdc2f089ffa72d19d773835e/realm-annotations-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4459414c171c7b60cdc2f089ffa72d19d773835e">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/realm-annotations-1.1.0_d004eee42286a10a6a13305f582fa5417c0a413c.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/com.yqritc/recyclerview-flexibledivider/1.2.9/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a03e6e942bcc46a8d01c2da5d8a2147ecab113d">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/com.yqritc-recyclerview-flexibledivider-1.2.9_9dedc1af3bd15e59344a3c889f28e2c1f9f56194.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_fa9ea5c5a217882ec716585b6f2824e5ffdf5950.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/rxjava-1.1.6_22c59e8325046002860cac806e03d7233001b281.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_22a241520927b82f954f71d6d3af92198c6ae86a.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_76862a07122f822fff722babba36b8b3853fbdf3.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/glide-3.7.0_8c5c22b5aec4e49ff424fad88f3c4178d624ade6.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_564b1b3ba26ec434a3adea2320b9c08fbeac3ba8.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/io.realm/realm-android-library/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db73bb0b63ec60c9467b564baaf7c1e5d469c9f2">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/io.realm-realm-android-library-1.1.0_3883d444151455695f4c1b3482e925bb19528f85.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/gson-2.7_dbb5613f3681f193c6317498a9562d2d7d408a99.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/library-2.4.0_aa513cbc58f13abed9d440418305a421b12c5672.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/com.github.fafaldo/fab-toolbar/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="914655ea8bbd3367dd5cebf2282e636cd3d95389">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/com.github.fafaldo-fab-toolbar-1.2.0_f6016007632bd9711b473fff1439a5d37d79a470.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/com.jakewharton.rxbinding-rxbinding-0.4.0_861fbe30302285c6d71bcf39b0aeac24865053c5.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/com.ogaclejapan.smarttablayout/utils-v4/1.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7dc4e0ea5b06183f6b32f08c5db6bcb6ef79c02a">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/com.ogaclejapan.smarttablayout-utils-v4-1.6.1_984372ec4f577033856e128a411ba4cb921cdc6d.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_5e1bb494a07ce291cac9d2392353fc83f1c365a8.jar" />
+    </item>
+    <item
+        jar="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/exploded-aar/jp.wasabeef/recyclerview-animators/2.2.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e325e9ba5c23d635d0cfaa76c349fca83101f8a">
+        <dex dex="/Users/Ray/weiji/byb/project/GameNews-master/app/build/intermediates/pre-dexed/debug/jp.wasabeef-recyclerview-animators-2.2.3_78ccb1d53f181141b164422977fc9df98df8eeb9.jar" />
+    </item>
+
+</items>
